@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>タグA on recroom</title><link>https://masa162.github.io/recroom/tags/%E3%82%BF%E3%82%B0a/</link><description>Recent content in タグA on recroom</description><generator>Hugo -- 0.147.3</generator><language>ja</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://masa162.github.io/recroom/tags/%E3%82%BF%E3%82%B0a/index.xml" rel="self" type="application/rss+xml"/><item><title>記事タイトル</title><link>https://masa162.github.io/recroom/posts/20250605-title/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://masa162.github.io/recroom/posts/20250605-title/</guid><description>&lt;p>ここに本文を記述します。&lt;/p>
-&lt;p>投稿追加手順（毎回やること）&lt;/p>
-&lt;ol>
-&lt;li>_template.md をコピー&lt;/li>
-&lt;li>ファイル名をリネーム（例：20250606-note.md）&lt;/li>
-&lt;li>title / date / slug / tags / 本文を編集&lt;/li>
-&lt;li>GitHub Desktop でコミット＆Push&lt;/li>
-&lt;/ol></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>タグA on recroom</title>
+    <link>http://localhost:1313/recroom/tags/%E3%82%BF%E3%82%B0a/</link>
+    <description>Recent content in タグA on recroom</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/recroom/tags/%E3%82%BF%E3%82%B0a/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
