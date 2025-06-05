@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/recroom/tags/books/</loc>
+    <lastmod>2025-06-05T19:30:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/recroom/posts/</loc>
-    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-05T19:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recroom/</loc>
-    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recroom/tags/books/</loc>
     <lastmod>2025-06-05T19:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recroom/posts/20250605-log/</loc>
@@ -33,6 +33,12 @@
     <lastmod>2025-06-05T15:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recroom/posts/20250605_04-log/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recroom/tags/%E3%82%BF%E3%82%B0a/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recroom/posts/20250605-title/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recroom/categories/</loc>
