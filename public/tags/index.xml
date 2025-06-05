@@ -9,10 +9,24 @@
     <lastBuildDate>Thu, 05 Jun 2025 19:30:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/recroom/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Books</title>
+      <link>http://localhost:1313/recroom/tags/books/</link>
+      <pubDate>Thu, 05 Jun 2025 19:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/recroom/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>はじめに</title>
       <link>http://localhost:1313/recroom/tags/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</link>
       <pubDate>Thu, 05 Jun 2025 19:30:00 +0900</pubDate>
       <guid>http://localhost:1313/recroom/tags/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>政治</title>
+      <link>http://localhost:1313/recroom/tags/%E6%94%BF%E6%B2%BB/</link>
+      <pubDate>Thu, 05 Jun 2025 19:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/recroom/tags/%E6%94%BF%E6%B2%BB/</guid>
       <description></description>
     </item>
     <item>
