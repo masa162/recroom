@@ -8,11 +8,21 @@
     <loc>http://localhost:1313/recroom/</loc>
     <lastmod>2025-06-06T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/recroom/posts/20250605-log/</loc>
+    <lastmod>2025-06-05T19:30:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recroom/tags/</loc>
+    <lastmod>2025-06-05T19:30:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recroom/tags/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</loc>
+    <lastmod>2025-06-05T19:30:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recroom/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <lastmod>2025-06-05T19:30:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/recroom/posts/20250605-start/</loc>
     <lastmod>2025-06-05T15:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recroom/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/recroom/tags/</loc>
   </url>
 </urlset>
