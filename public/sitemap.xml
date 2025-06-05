@@ -35,12 +35,8 @@
     <loc>http://localhost:1313/recroom/posts/20250605_04-log/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recroom/tags/%E3%82%BF%E3%82%B0a/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recroom/posts/20250605-title/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recroom/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/recroom/tags/%E3%82%BF%E3%82%B0a/</loc>
   </url>
 </urlset>
