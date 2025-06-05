@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/recroom/posts/20250605_03-log/</guid>
       <description>&lt;p&gt;物価高騰、令和の米騒動&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>21lessons</title>
+      <link>http://localhost:1313/recroom/posts/20250605_04-log/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recroom/posts/20250605_04-log/</guid>
+      <description>&lt;p&gt;読んだ本「21Lessons」ユヴァル・ノア・ハラリ&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
